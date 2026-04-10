@@ -51,7 +51,13 @@ The **ClimateScope Dashboard** is designed to help users explore and understand 
 ```
   project/
   │── data/
-  │     └── weather_cleaned_with_seasons.csv
+  |     └── weather_cleaned_with_seasons.csv
+  │── images/                   
+  │       ├── dashboard_overview.png
+  │       ├── trends.png
+  │       ├── seasonal.png
+  │       ├── extremes.png
+  |       └── correlation.png     
   │── app.py
   │── dashboard_design.md
   │── requirements.txt
