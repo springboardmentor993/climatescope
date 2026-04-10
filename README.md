@@ -82,13 +82,14 @@ The dataset contains climate-related attributes such as:
 - Precipitation (mm)  
 - Wind Speed (kph)  
 - Pressure (mb)
-  
-A sample dataset is included in this repository for demonstration and testing purposes.
+  A sample dataset is included in this repository for demonstration and testing purposes.
 ---
 
 ##  Deployment  
 
 The dashboard is designed to be deployed on cloud platforms such as Streamlit Cloud, enabling users to access and interact with the application through a web browser without local setup.
+
+Live Demo: https://climatescope-ilpeft4uryrdboowcosoch.streamlit.app/
 
 ---
 
@@ -100,12 +101,12 @@ The dashboard is designed to be deployed on cloud platforms such as Streamlit Cl
 
 ---
 
-## 📜 License  
+##  License  
 
 This project is licensed under the MIT License.
 
 ---
 
-## 🙌 Acknowledgment  
+##  Acknowledgment  
 
 This project was developed as part of an internship to demonstrate skills in data analysis, visualization, and dashboard development.
