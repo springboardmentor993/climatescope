@@ -17,7 +17,7 @@ st.caption("Interactive dashboard for analyzing global climate patterns")
 # -----------------------------
 @st.cache_data
 def load_data():
-    return pd.read_csv("data/processed/weather_cleaned_with_seasons.csv")
+    return pd.read_csv("data/weather_cleaned_with_seasons.csv")
 
 df = load_data()
 
