@@ -81,8 +81,9 @@ The dataset contains climate-related attributes such as:
 - Humidity (%)  
 - Precipitation (mm)  
 - Wind Speed (kph)  
-- Pressure (mb)  
-
+- Pressure (mb)
+  
+A sample dataset is included in this repository for demonstration and testing purposes.
 ---
 
 ##  Deployment  
