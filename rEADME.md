@@ -36,7 +36,7 @@ A **3-page interactive Power BI dashboard** designed to analyze:
 ### 🟢 1. Overview Dashboard
 
 <p align="center">
-  <img src="overview.jpg" width="900"/>
+  <img src="Overview.jpg" width="900"/>
 </p>
 
 🔍 **Insights:**
@@ -51,7 +51,7 @@ A **3-page interactive Power BI dashboard** designed to analyze:
 ### 🔵 2. Temperature & Climate Analysis
 
 <p align="center">
-  <img src="climate.jpg" width="900"/>
+  <img src="Climate.jpg" width="900"/>
 </p>
 
 🔍 **Insights:**
@@ -66,7 +66,7 @@ A **3-page interactive Power BI dashboard** designed to analyze:
 ### 🔴 3. Air Quality & Environmental Analysis
 
 <p align="center">
-  <img src="environment.jpg" width="900"/>
+  <img src="Environment.jpg" width="900"/>
 </p>
 
 🔍 **Insights:**
