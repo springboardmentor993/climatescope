@@ -1,7 +1,7 @@
-# 🌦 Weather Dashboard (Power BI)
+# 🌦 ClimateScope Global Weather Dashboard
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=30&center=true&vCenter=true&width=900&lines=Power+BI+Dashboard;Weather+%7C+Climate+%7C+Air+Quality;Interactive+Data+Visualization;Built+by+Mani+Shankar" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=30&center=true&vCenter=true&width=900&lines=Power+BI+Dashboard;Weather+%7C+Climate+%7C+Air+Quality;Interactive+Visual+Analytics;Built+by+Mani+Shankar" />
 </p>
 
 <p align="center">
@@ -18,40 +18,63 @@
 
 ## 🚀 Project Overview
 
-An **interactive 3-page Power BI dashboard** designed to analyze:
+A **3-page interactive Power BI dashboard** designed to analyze:
 
 * 🌡 Temperature trends
 * 💨 Wind patterns
 * 🌧 Rainfall distribution
 * 🌫 Air quality insights
 
-✨ Built with focus on **data storytelling & visual insights**
+✨ Built using **data storytelling + visual analytics**
 
 ---
 
-## 📊 Dashboard Preview
-
-### 🟢 Overview
-
-<p align="center">
-  <img src="overview.png" width="750"/>
-</p>
+## 📊 Dashboard Pages
 
 ---
 
-### 🔵 Temperature & Climate
+### 🟢 1. Overview Dashboard
 
 <p align="center">
-  <img src="climate.png" width="750"/>
+  <img src="overview.jpg" width="900"/>
 </p>
+
+🔍 **Insights:**
+
+* Global weather distribution using map
+* Key KPIs (Temperature, Wind Speed, Rainfall)
+* Country-wise rainfall & temperature trends
+* Humidity vs Wind relationship
 
 ---
 
-### 🔴 Air Quality & Environment
+### 🔵 2. Temperature & Climate Analysis
 
 <p align="center">
-  <img src="environment.png" width="750"/>
+  <img src="climate.jpg" width="900"/>
 </p>
+
+🔍 **Insights:**
+
+* Temperature trends across regions
+* Humidity distribution (frequency analysis)
+* Wind speed by direction
+* Feels-like vs actual temperature comparison
+
+---
+
+### 🔴 3. Air Quality & Environmental Analysis
+
+<p align="center">
+  <img src="environment.jpg" width="900"/>
+</p>
+
+🔍 **Insights:**
+
+* Pollution metrics (PM2.5, PM10, NO2, CO)
+* Top polluted countries
+* Impact of pollution on visibility
+* Effect of rainfall on air pollution
 
 ---
 
@@ -69,18 +92,18 @@ An **interactive 3-page Power BI dashboard** designed to analyze:
 ✨ High humidity → higher rainfall
 ✨ Pollution reduces visibility
 ✨ Rainfall helps reduce pollution
-✨ Temperature varies across regions
+✨ Climate patterns vary across regions
 
 ---
 
 ## 📂 Project Structure
 
-```id="7a6m3p"
+```id="t6a9x1"
 📁 weather-dashboard
  ┣ 📄 dashboard.pbix
- ┣ 🖼 overview.png
- ┣ 🖼 climate.png
- ┣ 🖼 environment.png
+ ┣ 🖼 overview.jpg
+ ┣ 🖼 climate.jpg
+ ┣ 🖼 environment.jpg
  ┗ 📄 README.md
 ```
 
