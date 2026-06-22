@@ -1,0 +1,89 @@
+{
+    "name": "Climatescope Dark",
+    "dataColors": [
+        "#00E5FF",
+        "#2979FF",
+        "#7C4DFF",
+        "#1DE9B6",
+        "#00B0FF",
+        "#651FFF",
+        "#00E676",
+        "#3D5AFE"
+    ],
+    "background": "#0F111A",
+    "foreground": "#FFFFFF",
+    "tableAccent": "#00E5FF",
+    "visualStyles": {
+        "page": {
+            "*": {
+                "background": [
+                    {
+                        "solid": {
+                            "color": "#0F111A"
+                        },
+                        "transparency": 0
+                    }
+                ],
+                "outspace": [
+                    {
+                        "solid": {
+                            "color": "#0F111A"
+                        },
+                        "transparency": 0
+                    }
+                ]
+            }
+        },
+        "*": {
+            "*": {
+                "*": [
+                    {
+                        "fontSize": 10,
+                        "fontFamily": "Segoe UI, wf_segoe-ui, helvetica, arial, sans-serif",
+                        "color": {
+                            "solid": {
+                                "color": "#E2E8F0"
+                            }
+                        }
+                    }
+                ],
+                "background": [
+                    {
+                        "show": true,
+                        "color": {
+                            "solid": {
+                                "color": "#1A1D27"
+                            }
+                        },
+                        "transparency": 10
+                    }
+                ],
+                "border": [
+                    {
+                        "show": true,
+                        "color": {
+                            "solid": {
+                                "color": "#2D3342"
+                            }
+                        },
+                        "radius": 10
+                    }
+                ],
+                "dropShadow": [
+                    {
+                        "show": true,
+                        "color": {
+                            "solid": {
+                                "color": "#000000"
+                            }
+                        },
+                        "position": "Outer",
+                        "preset": "Bottom",
+                        "shadowSpread": 0,
+                        "shadowBlur": 10
+                    }
+                ]
+            }
+        }
+    }
+}
